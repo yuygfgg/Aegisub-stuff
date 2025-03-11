@@ -1,6 +1,6 @@
 local gt = aegisub.gettext
 
-script_name = gt("TV_normalizer")
+script_name = gt("TV_Web_normalizer")
 script_description = gt("一键整理 tv/web 日语字幕")
 script_version = "1.0"
 
